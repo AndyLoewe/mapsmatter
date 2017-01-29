@@ -1,2 +1,3 @@
 # hello_world
-gather Idears for projects
+- GIS Guy with affinaty to historical maps and spatial analysis 
+- gather Idears for projects
